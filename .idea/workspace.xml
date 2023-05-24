@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="673cc885-a56b-4e64-83d1-41254d9e581f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/bin/gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/bin/gradle.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/init.d/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/annotations-20.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/ant-1.10.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/ant-antlr-1.10.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/ant-junit-1.10.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/ant-launcher-1.10.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/antlr4-runtime-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/asm-9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/asm-analysis-9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/asm-commons-9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/asm-tree-9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/commons-compress-1.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/failureaccess-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/fastutil-8.5.2-min.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/file-events-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/file-events-linux-aarch64-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/file-events-linux-amd64-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/file-events-osx-aarch64-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/file-events-osx-amd64-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/file-events-windows-amd64-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/file-events-windows-amd64-min-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/file-events-windows-i386-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/file-events-windows-i386-min-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-api-metadata-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-base-annotations-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-base-services-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-base-services-groovy-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-bootstrap-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-build-cache-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-build-cache-base-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-build-cache-packaging-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-build-events-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-build-operations-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-build-option-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-cli-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-core-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-core-api-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-data-structures-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-execution-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-file-collections-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-file-temp-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-file-watching-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-files-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-hashing-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-installation-beacon-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-jvm-services-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-kotlin-dsl-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-kotlin-dsl-tooling-models-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-launcher-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-logging-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-messaging-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-model-core-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-model-groovy-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-native-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-normalization-java-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-persistent-cache-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-problems-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-process-services-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-resources-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-runtime-api-info-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-snapshots-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-tooling-api-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-worker-processes-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/gradle-wrapper-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/groovy-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/groovy-ant-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/groovy-astbuilder-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/groovy-console-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/groovy-datetime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/groovy-dateutil-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/groovy-docgenerator-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/groovy-groovydoc-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/groovy-json-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/groovy-nio-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/groovy-sql-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/groovy-swing-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/groovy-templates-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/groovy-test-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/groovy-xml-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/guava-27.1-android.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/jansi-1.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/javaparser-core-3.17.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/javax.inject-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/jcl-over-slf4j-1.7.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/jsr305-3.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/jul-to-slf4j-1.7.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/junit-4.13.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kotlin-compiler-embeddable-1.4.31-patched-for-gradle-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kotlin-daemon-embeddable-1.4.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kotlin-reflect-1.4.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kotlin-sam-with-receiver-compiler-plugin-1.4.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kotlin-script-runtime-1.4.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kotlin-scripting-common-1.4.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kotlin-scripting-compiler-embeddable-1.4.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kotlin-scripting-compiler-impl-embeddable-1.4.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kotlin-scripting-jvm-1.4.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kotlin-scripting-jvm-host-1.4.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kotlin-stdlib-1.4.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kotlin-stdlib-common-1.4.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kotlin-stdlib-jdk7-1.4.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kotlin-stdlib-jdk8-1.4.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kotlinx-metadata-jvm-0.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/kryo-2.24.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/log4j-over-slf4j-1.7.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/minlog-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/native-platform-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/native-platform-freebsd-amd64-libcpp-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/native-platform-linux-aarch64-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/native-platform-linux-aarch64-ncurses5-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/native-platform-linux-aarch64-ncurses6-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/native-platform-linux-amd64-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/native-platform-linux-amd64-ncurses5-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/native-platform-linux-amd64-ncurses6-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/native-platform-osx-aarch64-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/native-platform-osx-amd64-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/native-platform-windows-amd64-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/native-platform-windows-amd64-min-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/native-platform-windows-i386-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/native-platform-windows-i386-min-0.22-milestone-16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/objenesis-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/apiguardian-api-1.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/aws-java-sdk-core-1.11.948.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/aws-java-sdk-kms-1.11.948.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/aws-java-sdk-s3-1.11.948.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/aws-java-sdk-sts-1.11.948.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/bcpg-jdk15on-1.68.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/bcpkix-jdk15on-1.68.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/bcprov-jdk15on-1.68.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/bsh-2.0b6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/commons-codec-1.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/dd-plist-1.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/google-api-client-1.25.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/google-api-services-storage-v1-rev171-1.25.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/google-http-client-1.25.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/google-http-client-jackson2-1.25.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/google-oauth-client-1.25.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-antlr-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-build-cache-http-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-build-init-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-build-profile-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-code-quality-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-composite-builds-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-configuration-cache-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-dependency-management-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-diagnostics-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-ear-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-enterprise-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-ide-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-ide-native-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-ivy-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-jacoco-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-java-compiler-plugin-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-kotlin-dsl-provider-plugins-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-kotlin-dsl-tooling-builders-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-language-groovy-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-language-java-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-language-jvm-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-language-native-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-maven-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-platform-base-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-platform-jvm-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-platform-native-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-plugin-development-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-plugin-use-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-plugins-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-publish-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-reporting-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-resources-gcs-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-resources-http-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-resources-s3-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-resources-sftp-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-scala-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-security-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-signing-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-test-kit-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-testing-base-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-testing-junit-platform-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-testing-jvm-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-testing-native-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-tooling-api-builders-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-tooling-native-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-version-control-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gradle-workers-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/gson-2.8.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/httpclient-4.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/httpcore-4.4.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/ion-java-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/ivy-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/jackson-annotations-2.12.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/jackson-core-2.12.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/jackson-databind-2.12.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/jakarta.activation-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/jakarta.xml.bind-api-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/jatl-0.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/jaxb-core-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/jaxb-impl-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/jcifs-1.3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/jcommander-1.78.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/jmespath-java-1.11.948.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/joda-time-2.10.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/jsch-0.1.55.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/junit-platform-commons-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/junit-platform-engine-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/junit-platform-launcher-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/jzlib-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/maven-builder-support-3.6.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/maven-model-3.6.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/maven-repository-metadata-3.6.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/maven-settings-3.6.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/maven-settings-builder-3.6.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/nekohtml-1.9.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/opentest4j-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/org.eclipse.jgit-5.7.0.202003110725-r.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/plexus-cipher-1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/plexus-interpolation-1.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/plexus-sec-dispatcher-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/plexus-utils-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/snakeyaml-1.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/testng-6.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/plugins/xercesImpl-2.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/qdox-1.12.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/slf4j-api-1.7.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/tomlj-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/trove4j-1.0.20181211.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Application download/gradle-7.1-bin/gradle-7.1/lib/xml-apis-1.4.01.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/.idea/modules/merchant-tools-automation.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/.idea/modules/merchant-tools-automation.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/base/BasePageObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/locators/businessTypeLocator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/pages/BusinessTypePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/slack/Attachment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/slack/Entities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/slack/Fields.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/slack/SlackClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/slack/SlackClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/slack/SlackNotificationBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/slack/cucumber/AfterItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/slack/cucumber/ArgumentsItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/slack/cucumber/BeforeItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/slack/cucumber/ElementsItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/slack/cucumber/Match.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/slack/cucumber/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/slack/cucumber/StepsItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/slack/cucumber/TagsItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/slack/cucumber/TestItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/webdriver/WebdriverInit$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/webdriver/WebdriverInit$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/main/webdriver/WebdriverInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/test/base/BaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/test/hooks/WebdriverHook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/classes/java/test/steps/BusinessTypeSteps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/resources/test/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/resources/test/features/Merchant Online/businessType.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../merchant-tools-automation/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/7.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/7.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/8.1.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/8.1.1/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/8.1.1/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/8.1.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/8.1.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/8.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/8.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/8.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../merchant-tools-automation/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../merchant-tools-automation/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merchant-tools-automation/src/main/java/slack/SlackClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../merchant-tools-automation/src/main/java/slack/SlackClient.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="11" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QES0nUI6ve2hYZhcYPfzDbSY9R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Ratika/automation/merchant-tools-automation",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ratika\automation\merchant-tools-automation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SlackClient">
+    <configuration name="SlackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slack.SlackClient" />
+      <module name="merchant-tools-automation.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="merchant-tools-automation" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="env">
+          <map>
+            <entry key="CUCUMBER_PUBLISH_TOKEN" value="cefef202-0af7-4a4d-8660-ebeb4427cea4" />
+          </map>
+        </option>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-D" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SlackClient" />
+      <item itemvalue="Gradle.merchant-tools-automation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SlackClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="de0495b9-53f4-4421-af3f-1312797ad524" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="de0495b9-53f4-4421-af3f-1312797ad524">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
