@@ -25,14 +25,20 @@ Feature:
         | merchantName | domainUrl| addresssJenisUsaha| mailingAddress| directorName| ktpNumber| receipientemail| emailCustomerService|
         |automationTest 1| autopedia.com| jalanautoedia  | ratika.subarza@finaccel.co|autopedia | 3453647589375645364758| ratikasubarza@gmail.com| ratikasubarza@gmail.com|
 
-#    @createMerchantonline @postivecase
-#    Scenario Outline:   As a user successful to filled "Informasi Penanggung Jawab & Pembayaran" for personal with valid data
-#      Given the user input pic business in the field <picBusiness>
-#      When the user input jabatan in the field <jabatan>
-#      And the user input email kantor in the field <emailKantor>
-#      And the user input phone number <teleponKantor>
-#
-#     Examples:
-#      |picBusiness| jabatan| emailKantor| teleponKantor|
-#      |borsak     | direktur| borsak.sihombing@finaccel.co|0846724287|
+    @createMerchantonline @postivecase
+    Scenario Outline:   As a user successful to filled "Informasi Penanggung Jawab & Pembayaran" for personal with valid data
+      Given the user input pic business in the field <picBusiness>
+      When the user input jabatan in the field <jabatan>
+      And the user input email kantor in the field <emailKantor>
+      And the user input phone number <teleponKantor>
+
+
+    Scenario Outline: As a user wnat to added
+      Given i click
+      And click
+      Then successfully
+
+     Examples:
+      |picBusiness| jabatan| emailKantor| teleponKantor|
+      |borsak     | direktur| borsak.sihombing@finaccel.co|0846724287|
 #
